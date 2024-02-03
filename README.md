@@ -15,7 +15,7 @@ bus services.
 ## Problem
 
 Due to the static allocation of buses, the buses
-are not able to fulfill demand at places or run empty.
+are not able to fulfill service demand at places or run empty.
 
 ## Solution
 
